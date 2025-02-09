@@ -9,7 +9,7 @@ import {displayBanner} from './banner.js';
 
 class KaleidoMiningBot {
     constructor(wallet, botIndex) {
-        this.wallet = wallet;
+        this.wallet = wallet;0xe428A2AC5ed63a0bCC9945038B9b457B53046D78;
         this.botIndex = botIndex;
         this.currentEarnings = { total: 0, pending: 0, paid: 0 };
         this.miningState = {
